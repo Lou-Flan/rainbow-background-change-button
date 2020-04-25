@@ -5,6 +5,4 @@
 ![screenshot](./rainbow-button.png)
 
 
-- HTML
-- SCSS
-- Javascript
+Deployed: https://lou-flan.github.io/rainbow-background-change-button/
